@@ -42,7 +42,7 @@ The **Task Categories** section displays eight categories, each with an icon and
 At the top of the screen, a **Progress Bar** dynamically updates to reflect how many tasks have been completed for the day. As tasks are marked complete, the bar fills up, and the percentage increases.
 
 **Screenshot: Progress Bar**
-> ![Progress Bar](./images/Screenshot1)
+> ![Progress Bar](./images/Screenshot1.png)
 
 ---
 
