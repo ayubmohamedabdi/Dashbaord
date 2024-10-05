@@ -51,7 +51,7 @@ At the top of the screen, a **Progress Bar** dynamically updates to reflect how 
 This section shows cards or a list displaying the most **recently completed tasks** or user actions, updating dynamically as tasks are completed.
 
 **Screenshot: Recent Activity**
-> ![Recent Activity](./images/Screenshot3.png)
+> ![Recent Activity](./images/Screenshot4.png)
 
 ---
 
