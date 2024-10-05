@@ -60,7 +60,7 @@ This section shows cards or a list displaying the most **recently completed task
 I’ve implemented an **animated FAB** in the bottom right corner. When clicked, the button **rotates** and **changes color** as it spins, making it visually appealing and interactive. The FAB is used for adding new tasks.
 
 **Screenshot: Animated Floating Action Button**
-> ![Animated Floating Action Button](./images/Screenshot5.png)
+> ![Animated Floating Action Button](./images/Screenshot6.png)
 
 ---
 
@@ -71,7 +71,7 @@ I’ve implemented an **animated FAB** in the bottom right corner. When clicked,
 - The **Recent Activity Section** refreshes and reorders itself whenever a new task is completed, showing the most recent activity at the top.
 
 **Screenshot: User Interaction**
-> ![User Interaction](./images/Screenshot1)
+> ![User Interaction](./images/highlighted.png)
 
 ---
 
@@ -100,4 +100,4 @@ The UI adheres to **Material Design** principles in several ways:
 This dashboard provides a clean, functional interface that helps users manage tasks effectively. By following Material Design principles, the app ensures a user-friendly, accessible experience across different devices.
 
 **Screenshot: Dashboard UI**
-> ![Dashboard UI](./path_to_screenshot/dashboard_ui.png)
+> ![Dashboard UI](./images/Screenshot1.png)
