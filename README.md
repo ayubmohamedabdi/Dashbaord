@@ -33,7 +33,7 @@ The **Task Categories** section displays eight categories, each with an icon and
 8. **Creativity** – Icon: An open lightbulb representing creative ideas.
 
 **Screenshot: Task Categories**
-> ![Task Categories]()
+> ![Task Categories](./images/Screenshot1.png)
 
 ---
 
