@@ -30,14 +30,6 @@ At the top of the screen, a **Progress Bar** dynamically updates to reflect how 
 
 ---
 
-## 4. Recent Activity Section
-
-This section shows cards or a list displaying the most **recently completed tasks** or user actions, updating dynamically as tasks are completed.
-
-**Screenshot: Recent Activity**
-> ![Recent Activity](./images/Screenshot4.png)
-
----
 ## 3. Task Categories
 
 The **Task Categories** section displays eight categories, each with an icon and a task count. These categories include:
@@ -55,6 +47,15 @@ The **Task Categories** section displays eight categories, each with an icon and
 > ![Task Categories](./images/ScreenshotI.png)
 
 ---
+## 4. Recent Activity Section
+
+This section shows cards or a list displaying the most **recently completed tasks** or user actions, updating dynamically as tasks are completed.
+
+**Screenshot: Recent Activity**
+> ![Recent Activity](./images/Screenshot4.png)
+
+---
+
 
 ## 5. Animated Floating Action Button (FAB)
 
