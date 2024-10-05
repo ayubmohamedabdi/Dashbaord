@@ -21,25 +21,7 @@ The **dashboard** is the main screen of the app. It includes the following eleme
 
 ---
 
-## 2. Task Categories
-
-The **Task Categories** section displays eight categories, each with an icon and a task count. These categories include:
-
-1. **Fitness** – Icon: A man exercising.
-2. **Work** – Icon: A man using a computer.
-3. **Health** – Icon: A medical symbol.
-4. **Learning** – Icon: A man studying.
-5. **Hobbies** – Icon: Drawing or painting tools.
-6. **Travel** – Icon: A travel suitcase or globe.
-7. **Social** – Icon: Social media symbols.
-8. **Creativity** – Icon: An open lightbulb representing creative ideas.
-
-**Screenshot: Task Categories**
-> ![Task Categories](./images/ScreenshotI.png)
-
----
-
-## 3. Progress Bar
+## 2. Progress Bar
 
 At the top of the screen, a **Progress Bar** dynamically updates to reflect how many tasks have been completed for the day. As tasks are marked complete, the bar fills up, and the percentage increases.
 
@@ -54,6 +36,23 @@ This section shows cards or a list displaying the most **recently completed task
 
 **Screenshot: Recent Activity**
 > ![Recent Activity](./images/Screenshot4.png)
+
+---
+## 3. Task Categories
+
+The **Task Categories** section displays eight categories, each with an icon and a task count. These categories include:
+
+1. **Fitness** – Icon: A man exercising.
+2. **Work** – Icon: A man using a computer.
+3. **Health** – Icon: A medical symbol.
+4. **Learning** – Icon: A man studying.
+5. **Hobbies** – Icon: Drawing or painting tools.
+6. **Travel** – Icon: A travel suitcase or globe.
+7. **Social** – Icon: Social media symbols.
+8. **Creativity** – Icon: An open lightbulb representing creative ideas.
+
+**Screenshot: Task Categories**
+> ![Task Categories](./images/ScreenshotI.png)
 
 ---
 
