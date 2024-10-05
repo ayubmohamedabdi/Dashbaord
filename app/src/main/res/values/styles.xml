@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSize">16sp</item>  <!-- Smaller text size -->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!-- Custom Floating Action Button Style -->
+    <style name="CustomFAB" parent="Widget.Design.FloatingActionButton">
+        <item name="backgroundTint">@android:color/transparent</item> <!-- Transparent background -->
+        <item name="elevation">6dp</item> <!-- Customize elevation if needed -->
+    </style>
+
+</resources>
