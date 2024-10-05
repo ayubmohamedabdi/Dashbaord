@@ -16,6 +16,8 @@ The **dashboard** is the main screen of the app. It includes the following eleme
 - **Progress Bar**: Shows the user's daily task completion percentage.
 - **Recent Activity Section**: Displays cards or a list showing the most recently completed tasks.
 - **Animated Floating Action Button (FAB)**: Positioned in the lower right corner, it rotates and changes color as it spins, and it’s used for adding new tasks.
+-**Screenshot: of the dashbaord**
+- > ![Task Categories](./images/Screenshot1.png)
 
 ---
 
@@ -33,7 +35,7 @@ The **Task Categories** section displays eight categories, each with an icon and
 8. **Creativity** – Icon: An open lightbulb representing creative ideas.
 
 **Screenshot: Task Categories**
-> ![Task Categories](./images/Screenshot1.png)
+> ![Task Categories](./images/ScreenshotI.png)
 
 ---
 
