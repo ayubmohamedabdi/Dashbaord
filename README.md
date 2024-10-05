@@ -42,7 +42,7 @@ The **Task Categories** section displays eight categories, each with an icon and
 At the top of the screen, a **Progress Bar** dynamically updates to reflect how many tasks have been completed for the day. As tasks are marked complete, the bar fills up, and the percentage increases.
 
 **Screenshot: Progress Bar**
-> ![Progress Bar](./images/Screenshot3.png)
+> ![Progress Bar](./images/Screenshot2.png)
 
 ---
 
@@ -51,7 +51,7 @@ At the top of the screen, a **Progress Bar** dynamically updates to reflect how 
 This section shows cards or a list displaying the most **recently completed tasks** or user actions, updating dynamically as tasks are completed.
 
 **Screenshot: Recent Activity**
-> ![Recent Activity](./images/Screenshot3)
+> ![Recent Activity](./images/Screenshot3.png)
 
 ---
 
@@ -60,7 +60,7 @@ This section shows cards or a list displaying the most **recently completed task
 I’ve implemented an **animated FAB** in the bottom right corner. When clicked, the button **rotates** and **changes color** as it spins, making it visually appealing and interactive. The FAB is used for adding new tasks.
 
 **Screenshot: Animated Floating Action Button**
-> ![Animated Floating Action Button](./images/Screenshot4)
+> ![Animated Floating Action Button](./images/Screenshot5.png)
 
 ---
 
